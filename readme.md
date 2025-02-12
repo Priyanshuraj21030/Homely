@@ -28,7 +28,7 @@ This project implements a form that:
 
 1. Clone the repository
    bash
-   git clone https://github.com/your-repo/dynamic-form.git
+   git clone https://github.com/Priyanshuraj21030/Homely
    cd project
 
 2. Install dependencies
