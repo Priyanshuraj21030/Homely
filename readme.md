@@ -26,17 +26,24 @@ This project implements a form that:
 
 ## Installation & Setup
 
-1. Clone the repository
-   bash
-   git clone https://github.com/Priyanshuraj21030/Homely
-   cd project
+1. **Clone the repository**
 
-2. Install dependencies
-   npm install
+```bash
+git clone https://github.com/Priyanshuraj21030/Homely
+```
 
-3. Run the development server
-   npm run dev
+2. **Install dependencies**
 
+```bash
+cd project
+npm install
+```
+
+3. **Run the development server**
+
+```bash
+npm run dev
+```
 
 ## Usage
 
